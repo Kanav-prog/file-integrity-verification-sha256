@@ -1,0 +1,3 @@
+Firewall: Enabled
+Antivirus: Enabled
+Updates: Automatic
